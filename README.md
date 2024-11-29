@@ -40,4 +40,3 @@ After a few minutes, you should get some more PRs!
 
 ----------------------------------------------------------------------------------------
 Hallo this is a push jenkins job test!
-hallo hallo
